@@ -1,0 +1,11 @@
+comparison operator in js
+condition in js
+
+multi level if else	
+nested if else
+ternary operator
+logical not
+
+array in js
+array methods 
+array operation
