@@ -3,6 +3,7 @@ condition in js
 
 multi level if else	
 nested if else
+switch in js
 ternary operator
 logical not
 
