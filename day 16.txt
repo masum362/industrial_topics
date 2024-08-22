@@ -1,5 +1,5 @@
 array
-array functions--> length , index, sort by
+array . functions--> length , index, sort by
 add and remove from array
 
 loops
