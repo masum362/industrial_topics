@@ -1,0 +1,52 @@
+.stepper-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 200px auto;
+    align-items: start;
+}
+
+.stepper-wrapper .stepper-item {
+    padding: 16px;
+    border: 1px solid red;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+
+}
+
+.stepper-wrapper .stepper-item.active {
+    background: red;
+    color: white;
+
+}
+
+.stepper-wrapper .stepper-item::before {
+    content: "";
+    position: absolute;
+    top: -16px;
+    left: 50%;
+    width: 1px;
+    height: 16px;
+    background-color: red;
+    z-index: -1;
+}
+
+.stepper-wrapper .stepper-item:first-child::before {
+    content: none;
+}
+
+/* .stepper-wrapper .stepper-item::after{
+    content: "";
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    width: 1px;
+    height: 16px;
+    background-color: green;
+}
+
+.stepper-wrapper .stepper-item:last-child::after{
+    content: none;
+} */
