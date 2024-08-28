@@ -23,12 +23,13 @@ obj['name'] //get the name of object
 Object.keys(obj) //return the keys of the object
 
 // loop with object
+// for in loop
 for (const key in obj) {
    console.log(obj[key]); //print the every value of the object
 }
 
 // function
-function abc(){
+const result = function abc(){
     console.log('console log from inner function');
 }
 

@@ -2,7 +2,22 @@ string
 string function
 
 object
+
+const obj = {
+    name:"string",
+    phone:0203,
+}
+
+
+
 object function
+
+obj.name // string
+obj["phone"] // 0203
+
 loop with object
 
 function
+
+
+function abc

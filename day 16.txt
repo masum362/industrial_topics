@@ -2,6 +2,10 @@ array
 array . functions--> length , index, sort by
 add and remove from array
 
+add --> arr.push(),arr.unshift()
+remove --> arr.pop(),arr.shift()
+
+
 loops
 for loop
 while loop
