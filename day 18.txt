@@ -1,0 +1,16 @@
+ES6
+
+template literals
+
+arrow function
+
+
+array function --> forEach , filter , find , map , reduce
+
+spread operator and rest perameter
+
+destructuring --> array destructuring , object destructuring
+
+for of , for in
+
+promises
