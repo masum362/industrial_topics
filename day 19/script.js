@@ -14,7 +14,12 @@ const handleBtnClick = () => {
        headingArr.forEach(item => item.innerText = "changed by button click");
 }
 
+const  handleBtnHover = () => {
+    console.log('button hover');
+}
+
 changeBtn.addEventListener("click",handleBtnClick)
+changeBtn.addEventListener("hover",handleBtnHover)
 
 
 
