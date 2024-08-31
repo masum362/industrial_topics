@@ -1,0 +1,14 @@
+------------------------------------------------------
+        Event , addEventlistner, Dynamic Style 
+------------------------------------------------------
+
+event add system in js --> inline js, element.(eventName) --> element.addEventlistner(eventName, function)
+
+event --> click , mouseDown , mousehover , mousemove , mouseup etc
+addEventlistner
+dynamic style --> add class, remove class,set attribute , get attribute , remove attribute,innertext,innerhtml
+removeEventlistner
+
+
+practise
+add some button and change the body color according these
