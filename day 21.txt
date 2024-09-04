@@ -3,6 +3,3 @@ API,DATA LOAD,JSON,REQUEST TYPE,ES6 DATA LOADING,TRY,CATCH
 PROMISE,SETTIMEOUT,SETINTERVAL,CLEARINTERVAL,
 --------------------------------------------------------
 
-practise task
-https://retro-api.netlify.app/
-https://github.com/masum362/retro.git
