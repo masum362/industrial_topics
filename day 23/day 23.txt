@@ -1,0 +1,9 @@
+-----------------------------------------------
+                Dive with React
+-----------------------------------------------
+
+what is React?
+prerequisite --> node,npm,vite
+how react works 
+component
+jsx
