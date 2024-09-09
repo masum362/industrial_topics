@@ -1,0 +1,9 @@
+---------------------------------
+dive into mongodb
+---------------------------------
+
+what is database
+what is mongodb
+noSQL vs SQL database
+connection database with backend
+create collection

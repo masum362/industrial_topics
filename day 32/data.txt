@@ -1,0 +1,12 @@
+----------------------------------
+api
+----------------------------------
+
+what is api
+restful api
+connect with frontend
+middleware
+different important packages
+api request type
+get,post,patch,put,delete,
+

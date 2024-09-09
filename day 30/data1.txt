@@ -1,0 +1,8 @@
+------------------------------------
+practise all in one place
+------------------------------------
+
+create a basic landing page using react 
+project name: furniflex
+live link: https://furniflex-55eb2.web.app/products
+github link: https://github.com/masum362/FurniFlex.git

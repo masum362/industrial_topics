@@ -1,0 +1,10 @@
+---------------------------------
+dive into firebase
+---------------------------------
+
+firebase configuration
+firebase project create
+connect firebase with react
+authentication with firebase
+state refetching in firebase
+deploy with firebase

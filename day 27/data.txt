@@ -1,0 +1,6 @@
+--------------------------------------------
+global state of react
+--------------------------------------------
+
+props drilling
+usecontext hooks

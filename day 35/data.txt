@@ -1,0 +1,8 @@
+-------------------------------------
+authentication and authorization
+-------------------------------------
+
+authentication vs authorization
+jsonwebtoken
+middleware
+folder structure

@@ -1,0 +1,14 @@
+-----------------------------------
+explore npm package
+-----------------------------------
+
+recharts,
+carousel,
+form control packages,
+axios
+react-toastify/swal
+react-icons
+react-helmet
+swiper,
+react-tabs  
+etc
