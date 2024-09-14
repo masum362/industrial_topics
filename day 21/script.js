@@ -16,10 +16,24 @@
 // loadData();
 
 
-const intarval = setInterval(() => {
-    console.log('repeat');
-}, 2000);
+// const intarval = setInterval(() => {
+//     console.log('repeat');
+// }, 2000);
 
-setTimeout(() => {
-    clearInterval(intarval)
-}, 5000);
+// setTimeout(() => {
+//     clearInterval(intarval)
+// }, 5000);
+
+const func = () => {
+    let variable1 = null;
+    const setState = (value) => {
+        variable1 = value
+    }
+    return [variable1, setState]
+}
+
+const [ value, setValue ] = func();
+
+setValue(10)
+
+console.log(value);

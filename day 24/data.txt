@@ -1,9 +1,9 @@
 ----------------------------------------------
 react basic
 ----------------------------------------------
-
-state and props
+es6 export and export default
 hooks --> usestate,useEffect
-lifecycle 
+state and props
+lifecycle --> create , load,update,read
 event handle
 conditional rendering
