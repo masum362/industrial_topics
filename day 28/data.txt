@@ -3,8 +3,8 @@ explore npm package
 -----------------------------------
 
 recharts,
-carousel,
-form control packages,
+carousel --> react-responsive-carousel,react-slick,
+form control packages --> react-hooks-form,formik,
 axios
 react-toastify/swal
 react-icons

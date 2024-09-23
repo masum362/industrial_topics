@@ -3,4 +3,5 @@ global state of react
 --------------------------------------------
 
 props drilling
+props lifting
 usecontext hooks

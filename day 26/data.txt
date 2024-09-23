@@ -1,8 +1,17 @@
 --------------------------------
 styling in react
 --------------------------------
-index.css
-app.css
+
+index.css //global style
+app.css //app.jsx style
 module.css
 tailwind
 daisyui
+@layer utilities
+
+
+@layer utilities{
+    .className{
+        @apply text-white font-semibold etc.
+    }
+}

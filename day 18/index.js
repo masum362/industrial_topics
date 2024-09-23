@@ -1,4 +1,4 @@
-const a = 20;
+// const a = 20;
 
 // normal string
 // const str = 'the number is' + a;
@@ -21,7 +21,7 @@ const a = 20;
 // const arr = [1,3,4,5,6,7,8,9,10,11,12];
 
 // forEach function --> loop through each element of array but not return anything
-// const result = arr.forEach((item)=>item); //result is undefined
+// const result = arr.forEach((item) =>item); //result is undefined
 // console.log(result);
 
 // map functions --> loop through each element of array and return the result
@@ -77,4 +77,5 @@ const a = 20;
 // for (const item of arr) {
 //     item * 2;
 // }
+
 
