@@ -4,7 +4,14 @@ dive into nodejs
 
 what is nodejs
 nodejs basic
+module
+build in module
+external module
+created by own module
+
+create a server
 expressjs
-cors
 nodemon
-create a server 
+cors -- cross origin resourse sharing
+
+ 
