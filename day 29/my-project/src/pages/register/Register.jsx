@@ -2,16 +2,16 @@ import React, { useContext } from 'react'
 import { useForm } from 'react-hook-form';
 import { authContext } from '../../context/AuthProvider';
 
-
+import axios from 'axios'
 
 const Register = () => {
 
     const { register, handleSubmit, formState: { errors }, } = useForm()
     const { registerUser } = useContext(authContext)
 
-    const handleFormSubmit =async({email,password}) =>{
-       const response = await registerUser(email,password)
-       console.log(response)
+    const handleFormSubmit = async ({ email, password }) => {
+
+        axios.get("http://localhost:8000/").then(res => console.log(res));
     }
     return (
         <div>

@@ -1,12 +1,19 @@
 ----------------------------------
-api
+api,frontend backend connection,
 ----------------------------------
 
 what is api
 restful api
+http request type
+get,post,patch,put,delete
+
+get --> data niye asa
+post --> data pathani
+put --> full data update
+patch --> data update but not full
+delete --> data delete
+
 connect with frontend
 middleware
 different important packages
-api request type
-get,post,patch,put,delete,
 
