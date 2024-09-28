@@ -3,7 +3,7 @@ dive into mongodb
 ---------------------------------
 
 what is database
-what is mongodb
 noSQL vs SQL database
+what is mongodb
 connection database with backend
 create collection
